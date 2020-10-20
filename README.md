@@ -1,2 +1,5 @@
 # manual-blog
-for me
+
+### Subscribe
+https://tech.osci.kr/   
+https://d2.naver.com/helloworld   
